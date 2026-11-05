@@ -1,0 +1,6 @@
+[component]
+name = "SigmaOS-libappindicator"
+tier = 2
+description = "Application status notifier and AppIndicator protocol library for desktop status items"
+contracts = ['libappindicator', 'sni-protocol', 'tray-menu-bridge']
+upstream_inspirations = ['https://github.com/linuxmint/libappindicator']
